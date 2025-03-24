@@ -102,7 +102,6 @@ OR, if using the EXE:
 
 ✅ **Online Database Support** – Currently, MySQL runs locally; adding cloud support will improve accessibility.
 ✅ **Search & Filter Options** – Add functionality to search employees by name, department, etc.
-✅ **Role-Based Access Control** – Implement different roles (Admin, Manager, Employee).
 ✅ **Export Data to Excel** – Allow users to export employee details to a CSV/Excel file.
 ✅ **Improved UI Design** – Enhance the interface with better styling and layouts.
 
@@ -114,10 +113,4 @@ OR, if using the EXE:
 🚀 **First Standalone EXE-Based Software!**
 
 💡 If you like this project, don't forget to ⭐ the repository!
-
----
-
-## 📝 License
-
-This project is licensed under the **MIT License**.
 
