@@ -7,8 +7,11 @@ This **Employee Management System** is a standalone desktop application built us
 ### 🔹 Key Features
 
 ✅ **GUI-Based Application** – No need for command-line interactions.
+
 ✅ **Standalone EXE** – Can be run by double-clicking the `.exe` file.
+
 ✅ **MySQL Integration** – Data is stored and managed using MySQL.
+
 ✅ **CRUD Operations** – Users can **Create, Read, Update, and Delete** employee records.
 
 ---
