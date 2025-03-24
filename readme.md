@@ -93,10 +93,11 @@ OR, if using the EXE:
 
 ```
 📦 Employee Management System
-├── main.py          # GUI and business logic
-├── test1.py         # MySQL database operations
+├── code/
+     ├── main.py          # GUI and business logic
+     ├── test1.py         # MySQL database operations
 ├── README.md        # Project documentation
-├── requirements.txt # Dependencies
+├── main.exe # software
 ```
 
 ---
