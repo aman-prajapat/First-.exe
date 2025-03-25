@@ -57,6 +57,27 @@ python main.py
 
 OR, if using the EXE:
 
+Set Up MySQL Database
+
+1. Open MySQL and create a database named **`test`**.
+2. Create a table inside the `test` database with the following schema:
+
+```sql
+CREATE TABLE emp (
+    employeeId VARCHAR(20) PRIMARY KEY,
+    empName VARCHAR(50),
+    mobile VARCHAR(10),
+    email VARCHAR(100),
+    post VARCHAR(50)
+);
+```
+
+Ensure MySQL is running on:
+   - **Host:** `localhost`
+   - **Port:** `3306`
+   - **Username:** `root`
+   - **Password:** `0000` (Modify as per your configuration)
+
 - Simply **double-click the ********************`.exe`******************** file** to launch the GUI.
 
 ---
