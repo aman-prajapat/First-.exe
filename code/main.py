@@ -37,8 +37,7 @@ def promote_employee():
 def display_employee():
     emp_id = entry_display_id.get()
     info = test1.display(emp_id)
-    if info:
-        # Assuming `info` is a tuple: (employeeId, name, mobile, email, post)
+    if info:
         emp_details = f"ID: {info[0]}\nName: {info[1]}\nMobile: {info[2]}\nEmail: {info[3]}\nPost: {info[4]}"
         messagebox.showinfo("Employee Details", emp_details)
     else:
